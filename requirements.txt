@@ -1,0 +1,22 @@
+# Core LLM and RAG Framework
+langchain
+langchain-openai
+langchain-community
+langchain-google-genai
+langchainhub
+
+# Vectorstore
+faiss-cpu
+
+# Data Handling
+pandas
+
+# Document Loaders for Markdown
+markdown
+unstructured
+
+# Environment & Config
+python-dotenv
+
+# Tokenizer for text splitting
+tiktoken

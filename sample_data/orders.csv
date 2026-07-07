@@ -1,0 +1,8 @@
+order_id,customer_id,order_date,status,product_name,product_category,quantity,price_per_unit,total_price,delivery_date
+ORD1001,CUST001,2026-06-25,Delivered,Laptop Pro,Electronics,1,1200,1200,2026-07-01
+ORD1002,CUST002,2026-06-28,Processing,Organic T-Shirt,Apparel,2,25,50,
+ORD1003,CUST001,2026-06-30,Delivered,Smart Watch,Electronics,1,150,150,2026-07-05
+ORD1004,CUST003,2026-07-01,Shipped,Yoga Mat,Sports & Outdoors,1,30,30,2026-07-06
+ORD1005,CUST004,2026-07-02,Delivered,The Alchemist,Books,1,20,20,2026-07-04
+ORD1006,CUST005,2026-07-03,Cancelled,Noise-Cancelling Headphones,Electronics,1,250,250,
+ORD1007,CUST002,2026-07-04,Processing,Running Shoes,Footwear,1,90,90,
