@@ -20,7 +20,7 @@ load_dotenv()
 PROJECT_ROOT = Path(__file__).parent.resolve()
 
 # --- LLM Provider ---
-# Set your preferred LLM provider. Options: "openai" or "google"
+# Set our preferred LLM provider. Options: "openai" or "google"
 # The default is "google" if not specified in the environment.
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "google").lower()
 
